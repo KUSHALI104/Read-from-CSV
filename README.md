@@ -22,8 +22,8 @@ Display the result.
 ## PROGRAM:
 ```
 '''
-Developed by:A.Lahari
-Register No: 212223230111
+Developed by:KUSHALI P G
+Register No: 23012804
 '''
 To write a python program for reading content from a CSV file.
 import pandas as pd
